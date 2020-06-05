@@ -39,6 +39,9 @@ public class VisitorDAOImpl implements VisitorDAO {
 		Date range_from = null;
 		Date range_to = null;
 		
+		// test here
+		System.out.println("this is test");
+		
 		// 
 		try {
 			// parse here
