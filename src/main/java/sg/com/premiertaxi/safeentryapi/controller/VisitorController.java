@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import sg.com.premiertaxi.safeentryapi.model.Visitor;
 import sg.com.premiertaxi.safeentryapi.service.VisitorService;
 
-//
+
 //http://localhost:4200/
 //*
 @RestController
